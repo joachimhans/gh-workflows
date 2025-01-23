@@ -1,1 +1,1 @@
-"echo 1Goodbye" > goodbye.sh
+"echo Goodbye" > goodbye.sh

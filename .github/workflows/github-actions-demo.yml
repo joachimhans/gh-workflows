@@ -50,5 +50,5 @@ jobs:
             env:
               super_secret: ${{ secrets.SUPERSECRET }}
             run: |
-              echo "example-job2
+              echo "example-job2"
             
